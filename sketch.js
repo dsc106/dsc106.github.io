@@ -13,7 +13,7 @@ let mode = true;
 let leftPart, rightPart;
 
 const strokeColor = "white"; //"#faf9f5"
-const mobiusColor = "royalblue";
+const mobiusColor = "skyblue";
 
 function setup() {
   let canvas = createCanvas(150, 150);
