@@ -81,7 +81,7 @@ body {
     /* new */
     max-width: 1020px;
     margin: auto;
-    margin-top: 7.5%;
+    /* margin-top: 7.5%; */
     grid-row-gap: 25px;
     padding-bottom: 96px;
 }
@@ -150,12 +150,12 @@ body {
 .highlight {
     color: #faf9f5;
     padding: 7.5px;
-    background-color: coral;
+    background-color: darkorange;
 }
 .highlight-logo {
     color: #faf9f5;
     padding: 2.5px;
-    background-color: coral;
+    background-color: darkorange;
 }
 
 .player {
@@ -171,26 +171,19 @@ body {
     transition: opacity .25s;
 }
 
-/* .video-container {
-    padding-top: 96px;
-} */
+.video-container {
+    margin-bottom: 7.5%;
+}
 
 video {
     border-radius: 20px;
+    /* border: 10px solid coral; */
 }
 
 .dual-container {
     width: 90%;
     max-width: 1200px;
-    /* grid-column-gap: 131px;
-    grid-row-gap: 131px;
-    background-color: rgba(0, 0, 0, 0);
-    justify-content: flex-start;
-    align-items: center;
-    display: flex;
-    margin: auto;
-    border: 2px solid black;
-    height: 60vh; */
+  
     display: grid;
     height: 60vh;
     grid-template-columns: 50% 40%;
@@ -211,7 +204,7 @@ video {
     display: flex;
 }
 .left-header {
-    color: coral;
+    color: darkorange;
     text-align: center;
     letter-spacing: .1em;
     margin-top: 0;
@@ -258,16 +251,49 @@ video {
 
 
 #final-action {
-        display: grid;
+        display: flex;
         flex-direction: column;
+        border-radius: 20px;
+        height: 45vh;
+        /* flex-direction: column;
         justify-content: center;
         align-items: center;
         text-align: center;
         max-width: 1020px;
         margin: auto;
-        margin-top: 7.5%;
         grid-row-gap: 25px;
         padding-bottom: 96px;
         background-color: white;
+        align-items: center; */
+        background-color: #faf9f5;
+        max-width: 1200px;
+        margin: auto;
         align-items: center;
+        grid-row-gap: 25px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border: 2px solid coral;
     }
+
+    .final-action-header {
+        margin-top: 7.5%;
+        color: #000;
+        text-align: center;
+        margin-bottom: 10px;
+        font-family: Merriweather, sans-serif;
+        font-size: 44px;
+        font-weight: 700;
+        line-height: 72px;
+    }
+
+#mobius {
+    display: grid;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 1020px;
+    margin: auto;
+    text-align: center;
+}
