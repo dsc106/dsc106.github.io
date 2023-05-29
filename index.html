@@ -1,49 +1,87 @@
-
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>wan.ai</title>
-    <meta
-      name="description"
-      content="The future of toys."
-    />
-    <link rel="stylesheet" href="/index.css" />
-    <script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.290/build/spline-viewer.js"></script>
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>WAN.AI</title>
 </head>
-  <body>
-    
-    <div class="hero">
-        <p class="small-text">
-            Join the waitlist 
-            <a href="/waitlie">here</a>.
-          </p>
-      <div class="container">
-        <div class="hero-container">
-          <h1>AI to make every toy an interactive companion. 🤖</h1>
-          <p>At <strong>wan.ai</strong> we combine AI & robotics to build the future generation of toys</p>
-          <p>
-            Companions you can talk to. Learn from.
-          </p>
-          <div
-            class="cta-btn"
-          >
-            Learn more.
-          </div>
-          
+<body>
+    <header class="header">
+        <div class="logo-container">
+            <svg class="logo-svg"></svg> <!-- You will replace this with your SVG code -->
+            <h1>WAN<span class='highlight-logo'>AI</span></h1>
         </div>
-        <spline-viewer url="https://prod.spline.design/SQTCycSsBMXCrI6S/scene.splinecode"></spline-viewer>        
-      </div>
-    </div>
-    <div class="footer-container">
-      <div class="footer-links-container">
-        <div class="footer-links-inner-container">
-          
-          <a href="/terms" class="footer-link">Terms</a>
-          <a href="/privacy" class="footer-link">Privacy Policy</a>
-        </div>
-      </div>
-    
-</html>
+        <nav class="nav">
+            <a href="#home">Home</a>
+            <a href="#product">Product</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <section class="hero">
+        <h2 class="hero-header">Manufacturing <span class='highlight'>transformed</span> for the<br>
+            needs of today</h2>
+        <p class="hero-subheader">Using science and AI to transform the future of manufacturing design.</p>
+        <button class="hero-button">Request A Demo</button>
+    </section>
 
+    <section class="video-container">
+    <video class="player" controls>
+        <source src="path/to/your/video.mp4" type="video/mp4">
+        <!-- You can include more source elements here for different formats (e.g., WebM, Ogg) -->
+        Your browser does not support the video tag.
+    </video>
+</section>
+<section class="hero">
+    <h2 class="hero-header">Augment, <span class='highlight'>Automate</span>,
+        Understand</h2>
+    <p class="hero-subheader">
+        Designing remarkable products is hard and time consuming.
+        <br>
+Our canvas uses AI to boost your team's creativity from the earliest stage of ideation.
+    </p>
+</section>
+<div class="dual-container">
+    <div class="left">
+        <h1 class="left-header">Augment</h1>
+        <h1 class="left-subheader">CADpilot</h1>
+        <p class="left-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus vero veritatis voluptas reprehenderit maxime accusamus cupiditate accusantium voluptate sapiente exercitationem.</p>
+    </div>
+    <video class="right-video" controls>
+        <source src="path/to/your/video.mp4" type="video/mp4">
+        <!-- You can include more source elements here for different formats (e.g., WebM, Ogg) -->
+        Your browser does not support the video tag.
+    </video>
+</div>
+<div class="dual-container">
+    <div class="left">
+        <h1 class="left-header">Automate</h1>
+        <h1 class="left-subheader">Training & Retainment</h1>
+        <p class="left-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus vero veritatis voluptas reprehenderit maxime accusamus cupiditate accusantium voluptate sapiente exercitationem.</p>
+    </div>
+    <video class="right-video" controls>
+        <source src="path/to/your/video.mp4" type="video/mp4">
+        <!-- You can include more source elements here for different formats (e.g., WebM, Ogg) -->
+        Your browser does not support the video tag.
+    </video>
+</div>
+<div class="dual-container">
+    <div class="left">
+        <h1 class="left-header">Understand</h1>
+        <h1 class="left-subheader">Analytics & Observability</h1>
+        <p class="left-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus vero veritatis voluptas reprehenderit maxime accusamus cupiditate accusantium voluptate sapiente exercitationem.</p>
+    </div>
+    <video class="right-video" controls>
+        <source src="path/to/your/video.mp4" type="video/mp4">
+        <!-- You can include more source elements here for different formats (e.g., WebM, Ogg) -->
+        Your browser does not support the video tag.
+    </video>
+</div>
+<div id="final-action">
+    <h1 class="final-action-header">Don't wait for the future</h1>
+    <p class="final-action-text">Get started today.</p>
+    <button class="hero-button">Request A Demo</button>
+</div>
+    
+</body>
+</html>
