@@ -3,16 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Add Favicon -->
+    <link rel="icon" type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect width=10 height=10 x=0 y=0 fill='steelblue'%3E%3C/rect%3E%3C/svg%3E" />
     <link rel="stylesheet" href="style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
-
-    <title>WAN.AI</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700;900&display=swap" rel="stylesheet">
+    <title>FABMA.AI</title>
 </head>
 <body>
     <header class="header">
         <div class="logo-container">
             <svg class="logo-svg"></svg> <!-- You will replace this with your SVG code -->
-            <h1>WAN<span class='highlight-logo'>AI</span></h1>
+            <h1 class="logo-h1">FABMA.<span class='highlight-logo'>AI</span></h1>
         </div>
         <nav class="nav">
             <a href="#home">Home</a>
@@ -20,14 +25,14 @@
             <a href="#contact">Contact</a>
         </nav>
     </header>
-    <div id="mobius">
-        <div id="p5Sketch"></div>
+    <div id="mobius" style="padding-bottom: 7.5%">
+        <!-- <div id="p5Sketch"></div> -->
     </div> 
 
     <section class="hero">
         <h2 class="hero-header">Manufacturing <span class='highlight'>transformed</span> for the<br>
             needs of today</h2>
-        <p class="hero-subheader">Using science and AI to transform the future of manufacturing design.</p>
+        <p class="hero-subheader">Using science and AI to transform the future of manufacturing.</p>
         <button class="hero-button">Request A Demo</button>
     </section>
 
@@ -49,8 +54,8 @@ Our canvas uses AI to boost your team's creativity from the earliest stage of id
 <div class="dual-container">
     <div class="left">
         <h1 class="left-header">Augment</h1>
-        <h1 class="left-subheader">Design Pilot</h1>
-        <p class="left-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus vero veritatis voluptas reprehenderit maxime accusamus cupiditate accusantium voluptate sapiente exercitationem.</p>
+        <h1 class="left-subheader">FabDesign</h1>
+        <p class="left-text">Seamlessly generate optimized designs, efficient processes, and advanced simulations via simple prompts. Revolutionize your manufacturing workflow and unlock limitless potential with Production Prodigy's intuitive AI-driven capabilities</p>
     </div>
     <video class="right-video" controls autoplay muted loop>
        <source src="videos/demo1.mp4" type='video/mp4; codecs="avc1.4d002a, mp4a.40.2"' >
@@ -61,8 +66,8 @@ Our canvas uses AI to boost your team's creativity from the earliest stage of id
 <div class="dual-container">
     <div class="left">
         <h1 class="left-header">Automate</h1>
-        <h1 class="left-subheader">Training & Retainment</h1>
-        <p class="left-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus vero veritatis voluptas reprehenderit maxime accusamus cupiditate accusantium voluptate sapiente exercitationem.</p>
+        <h1 class="left-subheader">FabTraining</h1>
+        <p class="left-text">Enjoy customized question-answering capabilities tailored to your specific training content. Boost productivity and knowledge retention in your manufacturing workforce.</p>
     </div>
     <video class="right-video" controls autoplay muted loop>
        <source src="videos/demo-chat.mp4" type='video/mp4; codecs="avc1.4d002a, mp4a.40.2"' >
@@ -73,8 +78,8 @@ Our canvas uses AI to boost your team's creativity from the earliest stage of id
 <div class="dual-container">
     <div class="left">
         <h1 class="left-header">Understand</h1>
-        <h1 class="left-subheader">Analytics & Observability</h1>
-        <p class="left-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus vero veritatis voluptas reprehenderit maxime accusamus cupiditate accusantium voluptate sapiente exercitationem.</p>
+        <h1 class="left-subheader">FabAnalytics</h1>
+        <p class="left-text">Say goodbye to data silos and unlock actionable insights for optimized operations and enhanced decision-making. Streamline your data flow and revolutionize your manufacturing processes with FabAnalytics today.</p>
     </div>
     <video class="right-video" controls autoplay muted loop>
        <source src="videos/demo-scatter.mp4" type='video/mp4; codecs="avc1.4d002a, mp4a.40.2"' >
@@ -89,6 +94,6 @@ Our canvas uses AI to boost your team's creativity from the earliest stage of id
     <button class="hero-button">Request A Demo</button>
 </div>
 <br><br><br>
-    <script src="sketch.js"></script>
+    <!-- <script src="sketch.js"></script> -->
 </body>
 </html>
