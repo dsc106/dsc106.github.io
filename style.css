@@ -1,14 +1,20 @@
+:root {
+    --color-primary: steelblue;
+    --color-bg: #faf9f5;
+    --color-font: #000;
+}
+
 /* Reset some default styles of the browser */
 body, h1, h2, p, a, button {
     margin: 0;
     padding: 0;
     font-family: Lato, sans-serif;
     text-decoration: none;
-    color: #000;
+    color: var(--color-font);
 }
 
 body {
-    background-color: #faf9f5;
+    background-color: var(--color-bg);
     background-image: radial-gradient(rgba(0, 0, 0, 0.262) 1px, transparent 0);
     background-size: 40px 40px;
     background-position: -19px -19px;
@@ -21,8 +27,7 @@ body {
     justify-content: space-between;
     padding: 20px;
     background-image: none;
-    background: #faf9f5;;
-    /* border-bottom: 2px solid black; */
+    background: var(--color-bg);;
     box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.177);
 }
 
@@ -32,7 +37,6 @@ body {
 }
 
 .logo-svg {
-    /* You need to provide dimensions for your SVG */
     width: 50px;
     height: 50px;
     margin-right: 10px;
@@ -44,13 +48,13 @@ body {
 
 .nav {
     display: flex;
-    align-items: center; /* This will center the items vertically */
-    background-color: #faf9f5;
+    align-items: center;
+    background-color: var(--color-bg);
 }
 
 .nav a {
     margin-left: 20px;
-    color: #000;
+    color: var(--color-font);
     text-decoration: none;
     padding: 20px; /* Add padding to have some space around the text */
     transition: background-color 0.3s ease;
@@ -59,21 +63,10 @@ body {
 
 .nav a:hover {
     background-color: #ebebeb;
-
-    /* text-decoration: underline; */
 }
 
 
-/* Mobile view - hide the navigation and show it when clicked on the logo */
-@media (max-width: 768px) {
-    .nav {
-        display: none;
-    }
-    .logo-container:active ~ .nav {
-        display: flex;
-        flex-direction: column;
-    }
-}
+
 
 /* Hero section */
 .hero {
@@ -92,7 +85,7 @@ body {
     padding: 10px 20px;
     margin-top: 20px;
     border: none;
-    background-color: #000;
+    background-color: var(--color-font);
     color: #fff;
     width: 200px;
     margin: auto;
@@ -102,7 +95,7 @@ body {
 
 
 .hero-header {
-    color: #000;
+    color: var(--color-font);
     text-align: center;
     margin-top: 0;
     margin-bottom: 0;
@@ -124,7 +117,7 @@ body {
 .hero-button {
     grid-column-gap: 8px;
     grid-row-gap: 8px;
-    background-color: #faf9f5;
+    background-color: var(--color-bg);
     border: 1px solid #4c4b5b;
     border-radius: 10px;
     flex: 0 auto;
@@ -145,19 +138,19 @@ body {
 
 .hero-button:hover {
     cursor: pointer;
-    color: #faf9f5;
+    color: var(--color-bg);
     background-color: rgb(58, 111, 155);
 }
 
 .highlight {
-    color: #faf9f5;
+    color: var(--color-bg);
     padding: 7.5px;
-    background-color: steelblue;
+    background-color: var(--color-primary);
 }
 .highlight-logo {
-    color: #faf9f5;
+    color: var(--color-bg);
     padding: 2.5px;
-    background-color: steelblue;
+    background-color: var(--color-primary);
 }
 
 .player {
@@ -218,7 +211,7 @@ video {
     display: flex;
 }
 .left-header {
-    color: steelblue;
+    color: var(--color-primary);
     text-align: center;
     letter-spacing: .1em;
     margin-top: 0;
@@ -232,7 +225,7 @@ video {
 }
 
 .left-subheader {
-    color: #000;
+    color: var(--color-font);
     text-align: center;
     margin-top: 0;
     margin-bottom: 0;
@@ -268,7 +261,7 @@ video {
         flex-direction: column;
         border-radius: 20px;
         height: 50vh;
-        background-color: #faf9f5;
+        background-color: var(--color-bg);
         max-width: 1200px;
         margin: auto;
         align-items: center;
@@ -276,12 +269,12 @@ video {
         justify-content: center;
         align-items: center;
         text-align: center;
-        border: 2px solid steelblue;
+        border: 2px solid var(--color-primary);
     }
 
     .final-action-header {
         margin-top: 7.5%;
-        color: #000;
+        color: var(--color-font);
         text-align: center;
         margin-bottom: 10px;
         font-family: Lato, Merriweather, sans-serif;
@@ -300,3 +293,58 @@ video {
     margin: auto;
     text-align: center;
 }
+
+a.icon {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    a.icon {
+        display: flex;
+        align-items: center;
+    }
+    .nav {
+        display: none;
+    }
+    .fa {
+        font-size: 26px;
+    }
+
+    #hero-break {
+        display: none;
+    }
+    .hero {
+        grid-row-gap: 6px;
+        margin-top: 50px;
+    }
+    .hero-button {
+        margin-top: 25px;
+    }
+    .video-container {
+        max-width: 95%;
+        width: 95%;
+        height: 36vh;
+        padding-bottom: 7.5%;
+    }
+
+    .hero-header {
+        font-size: 39px;
+        padding: 2px;
+        line-height: 60px;
+    }
+
+    .dual-container {
+        height: 100vh;
+        grid-template-columns: 98%;
+        padding-bottom: 75px;
+    }
+
+    #final-action {
+        padding: 15px;
+        height: 100%;
+        margin: 5px;
+    }
+
+}
+
+
