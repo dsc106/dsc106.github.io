@@ -255,6 +255,26 @@ video {
     margin: auto;
 }
 
+#quality {
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 10%;
+}
+.three {
+    display: grid;
+    text-align: center;
+    max-width: 1200px;
+    grid-template-rows: 100%;
+    grid-template-columns: repeat(3, 33.3%);
+}
+.quality-p {
+    margin-top: 5%;
+}
+
+
+.standard {
+    padding: 25px;
+}
 
 #final-action {
         display: flex;
@@ -327,7 +347,7 @@ a.icon {
         padding-bottom: 7.5%;
     }
 
-    .hero-header {
+    .hero-header,  .final-action-header {
         font-size: 39px;
         padding: 2px;
         line-height: 60px;
@@ -344,6 +364,29 @@ a.icon {
         height: 100%;
         margin: 5px;
     }
+
+
+#quality {
+    max-width: 1200px;
+    margin: auto;
+    padding: 15px;
+    margin: 5px;
+}
+.three {
+    display: grid;
+    text-align: center;
+    grid-template-rows: 30vh;
+    grid-template-columns: 100%;
+}
+.quality-p {
+    margin-top: 5%;
+}
+
+
+.standard {
+    padding: 25px;
+}
+
 
 }
 
