@@ -1,5 +1,5 @@
 :root {
-    --color-primary: steelblue;
+    --color-primary: #ffe135;
     --color-bg: #faf9f5;
     --color-font: #000;
 }
@@ -148,7 +148,7 @@ body {
     background-color: var(--color-primary);
 }
 .highlight-logo {
-    color: var(--color-bg);
+    color: black;
     padding: 2.5px;
     background-color: var(--color-primary);
 }
