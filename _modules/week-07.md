@@ -15,7 +15,7 @@ days:
         title: JavaScript and Svelte
         url: resources/lectures/13-DSC106-JSandSvelte.pdf
         reading: >
-          [Code](https://github.com/dsc-courses/dsc106-wi24/tree/main/js-lecture)
+          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/js-lecture)
   - date: "2024-05-17"
     events:
       - name: FINAL PROJ

@@ -31,7 +31,8 @@ to use `DataHub` for the first lab. You will need `Git`, `VSCode`, and `Node`
 to complete all other labs and projects.
 
 ---
-<!-- 
+
+<!--
 ## Lab1: Working using DataHub
 
 You will use DataHub for the first lab assignment.
@@ -93,7 +94,7 @@ within JupyterLab, you can:
 ### [Git](https://git-scm.com/)
 
 All of our course materials, including your assignments, are hosted on GitHub
-in [this Git repository](https://github.com/dsc-courses/dsc106-wi24). This
+in [this Git repository](https://github.com/dsc-courses/dsc106-sp24). This
 means that you'll need to download and use [Git](https://git-scm.com/) to work
 with the course materials.
 
@@ -107,7 +108,7 @@ There are Git GUIs, and you can use them for this class. You can also
 use the command-line version of Git. To get started, you\'ll need to
 \"clone\" the course repository. The command to do this is:
 
-    git clone https://github.com/dsc-courses/dsc106-wi24
+    git clone https://github.com/dsc-courses/dsc106-sp24
 
 This will copy the repository to a directory on your computer. To bring in the
 latest version of the repository, run **`git pull`** in your local repository.
@@ -116,7 +117,7 @@ difficult to lose work (although it\'s still possible!).
 
 **Merge Conflicts**
 
-You might face issues when using `git pull` regarding merge issues and branches. This is caused by files being updated on your side while we are also changing the [Git repository](https://github.com/dsc-courses/dsc106-wi24) by pushing new assignments on our side. Here are some steps you can follow to resolve it:
+You might face issues when using `git pull` regarding merge issues and branches. This is caused by files being updated on your side while we are also changing the [Git repository](https://github.com/dsc-courses/dsc106-sp24) by pushing new assignments on our side. Here are some steps you can follow to resolve it:
 
 NOTE: Whenever working with GitHub pulls, merges, etc., it's a good idea to save your important work locally so that if you accidentally overwrite your files you still have the work saved. **Save your work locally before following the steps below.**
 
@@ -166,8 +167,6 @@ npm --version
 
 If everything is installed correctly, you should see the version number information.
 
-
-
 ## Generate static site using svelte SSG
 
 To assist you in creating a static webpage for GitHub Pages using Svelte, we have developed a template for you: [ShaokangJiang/svelte-template (github.com)](https://github.com/ShaokangJiang/svelte-template).
@@ -176,7 +175,7 @@ Please follow the link provided, and initiate the creation of a new repository.
 
 ![image-20240210175403813](./assets/image-20240210175403813.png)
 
-After GitHub completes the cloning process, navigate to the settings page. On the left panel, under the "Pages" tab, locate the "Source" section and select "GitHub Actions" as the source. 
+After GitHub completes the cloning process, navigate to the settings page. On the left panel, under the "Pages" tab, locate the "Source" section and select "GitHub Actions" as the source.
 
 Clone this repository and proceed with your work. Upon completion, commit and push your changes. The corresponding GitHub Actions will then execute, building a static website hosted at `https://your-username.github.io/your-repo-name` for you.
 
@@ -186,8 +185,6 @@ Clone this repository and proceed with your work. Upon completion, commit and pu
 
 If you have started on the project and want to switch to using this template, you can copy your `src` folder, go to the local clone of your version of this template, then paste it. When it says the file exists, simply click replace, and you can continue working on your version of this template.
 
-
 ## Any question?
 
 The easiest and fastest way to reach our support for technical matters is by posting on [edstem](https://edstem.org/us/courses/51219/discussion/). You may also go to OHs.
-

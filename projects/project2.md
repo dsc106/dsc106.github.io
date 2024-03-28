@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Project 2: Deceptive Visualization'
-parent: '📝 Projects'
+title: "Project 2: Deceptive Visualization"
+parent: "📝 Projects"
 ---
 
 # Project 2: Deceptive Visualization
@@ -66,7 +66,7 @@ This data has the following columns:
 - `Value:` Field denoting the Percentage of individuals using the internet.
 - `Source:` Field denoting the source of the data.
 
-[link4]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/data/Internet_data.csv
+[link4]: https://github.com/dsc-courses/dsc106-sp24/raw/gh-pages/resources/data/Internet_data.csv
 [link5]: https://data.un.org/
 
 Here are some other possible sources to consider. You are also free to use data from a source different from those included here. If you have any questions on whether a dataset is appropriate, please ask the course staff ASAP!

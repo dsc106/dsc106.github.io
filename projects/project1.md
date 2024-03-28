@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Project 1: Expository Visualization'
-parent: '📝 Projects'
+title: "Project 1: Expository Visualization"
+parent: "📝 Projects"
 ---
 
 # Project 1: Expository Visualization
@@ -38,7 +38,7 @@ The data has seven columns:
 
 The climate data were collected from [https://www.usclimatedata.com/]().
 
-[dataset]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/data/weather.csv
+[dataset]: https://github.com/dsc-courses/dsc106-sp24/raw/gh-pages/resources/data/weather.csv
 
 ## Task
 

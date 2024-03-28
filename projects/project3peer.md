@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Project 3: Interactive Visualization - Peer Grading'
-parent: '📝 Projects'
+title: "Project 3: Interactive Visualization - Peer Grading"
+parent: "📝 Projects"
 ---
 
 # Project 3: Interactive Visualization - Peer Grading
@@ -20,7 +20,7 @@ Next, author a constructive critique of the visualization covering at least the 
 
 For each of the concerns listed above – visual encodings, interaction techniques, and overall design quality – we recommend using the ["I like / I wish / What if?"][link] format. Be sure to share positive feedback on effective aspects, critical (but respectful!) feedback on what might be improved, and more wild (even half-baked) ideas a team might explore in subsequent design iterations. Each peer review should contain at least a dozen such comments (average of 4 comments for each section (I Like/I wish/What if?)), often much more!
 
-[link]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/reading/I-Like-I-Wish-What-If.pdf
+[link]: https://github.com/dsc-courses/dsc106-sp24/raw/gh-pages/resources/reading/I-Like-I-Wish-What-If.pdf
 
 ## Submission Details
 
