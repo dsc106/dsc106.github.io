@@ -1,1 +1,2 @@
-# DSC 106 Wi24 Website
+# DSC 106 SP24 Website
+Temporary site holder
