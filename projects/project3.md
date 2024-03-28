@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Project 3: Interactive Visualization'
-parent: '📝 Projects'
+title: "Project 3: Interactive Visualization"
+parent: "📝 Projects"
 ---
 
 # Project 3: Interactive Visualization
@@ -122,7 +122,7 @@ This data has the following columns:
 - `Value:` Field denoting the Percentage of individuals using the internet.
 - `Source:` Field denoting the source of the data.
 
-[link11]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/data/Internet_data.csv
+[link11]: https://github.com/dsc-courses/dsc106-sp24/raw/gh-pages/resources/data/Internet_data.csv
 [link12]: https://data.un.org/
 
 Here are some other possible sources to consider. You are also free to use data from a source different from those included here. If you have any questions on whether a dataset is appropriate, please ask the course staff ASAP!
