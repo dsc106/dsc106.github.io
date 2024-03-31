@@ -48,27 +48,20 @@ course content. There are also a few things you'll need to do to get set up.
 You'll need to make accounts or join the class on the following sites.
 
 - **Ed:** We’ll be using Ed as our course message and discussion board. More
-  details are in the [Communication](#communication-) section below. If you
-  didn’t already get an invitation to our Ed course, [sign up
-  here](https://edstem.org/us/join/6jfeKP).
+  details are in the [Communication](#communication-) section below.
 
-- **Gradescope:** You’ll submit all projects to
-  [Gradescope](https://www.gradescope.com/courses/693205). This is where all of
-  your grades will live as well. Most of the assignments will be coding
-  assignments. You should have received an email invitation for
-  Gradescope, but if not please join Gradescope using entry code: **B2G6ZN**.
+  ⚠️It will take me a week or two to get access to my .ucsd email. Thus, we won't sign up for Ed until then, so hang tight.
+  If you have any questions in the meantime, **email me at jaredwilber5@gmail.com**⚠️
 
 - **GitHub:** Like in DSC 30 and 80, you'll _access_ all course content
   (lecture slides and assignments) by _pulling_ our course GitHub repository.
   That repo is here:
-  [https://github.com/dsc-courses/dsc106-wi24](https://github.com/dsc-courses/dsc106-wi24).
+  [https://github.com/dsc-courses/dsc106-sp24](https://github.com/dsc-courses/dsc106-sp24).
   In most assignments, you won't need to _push_ anything to GitHub.
 
 - **Zoom (optional):** To access remote office hours, if you'd like.
 
 Note that we will not be using Canvas for anything this quarter.
-
-⚠️If you enroll in the class later than 1/5, please join edsteam use [this link](https://edstem.org/us/join/6jfeKP) and join Gradescope using entry code: **B2G6ZN** manually.
 
 ### Development Environment
 
@@ -259,7 +252,7 @@ on an assignment depends on the kind of assignment:
 - On projects, you may use up to 2 slip days. Projects will not be
   accepted more than 48 hours after the deadline. Note that you will not be
   able to use slip days on the Final Project Deliverables due on Saturday,
-  March 16, 2024.
+  June 8, 2024.
 
 Slip days are designed to be a transparent and predictable source of leniency
 in deadlines. You can use a slip day if you are too busy to complete an
