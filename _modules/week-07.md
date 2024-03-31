@@ -6,16 +6,18 @@ days:
     events:
       - name: LEC 13
         type: lecture
-        title: Narrative Visualization
-        url: resources/lectures/12-DSC106-Narrative.pdf
-  - date: "2024-05-16"
-    events:
-      - name: LEC 14
-        type: lecture
         title: JavaScript and Svelte
         url: resources/lectures/13-DSC106-JSandSvelte.pdf
         reading: >
           [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/js-lecture)
+  - date: "2024-05-16"
+    events:
+      - name: LEC 14
+        type: lecture
+        title: Animation
+        url: resources/lectures/14-DSC106-Animation.pdf
+        reading: >
+          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/js-lecture/name-grapher)
   - date: "2024-05-17"
     events:
       - name: FINAL PROJ
