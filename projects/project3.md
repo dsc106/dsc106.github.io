@@ -73,13 +73,13 @@ Point deductions will be made when projects suffer from:
 
 ## Submission Details
 
-Submit your [team registration form][link5] by **Mon 02/05, 11:55 PM**.
+Submit your [team registration form][link5] by **Mon 04/29, 11:55 PM**.
 
-You must have a working prototype online by **Fri 02/16, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
+You must have a working prototype online by **Fri 05/10, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
 
 In addition, **you must submit the URL on Gradescope**. **One submission per team is sufficient**.
 
-Submissions will be reviewed as part of a subsequent peer review assignment (due Fri 02/23), so try to avoid a late submission; assignments submitted late may not be included as part of the peer review and thus not receive peer feedback.
+Submissions will be reviewed as part of a subsequent peer review assignment (due Fri 05/17), so try to avoid a late submission; assignments submitted late may not be included as part of the peer review and thus not receive peer feedback.
 
 ## Rubric
 

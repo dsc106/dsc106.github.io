@@ -6,14 +6,14 @@ days:
     events:
       - name: LEC 7
         type: lecture
-        title: Project 2 Feedback
+        title: D3.js
+        reading: >
+          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/d3-lecture)
   - date: "2024-04-25"
     events:
       - name: LEC 8
         type: lecture
-        title: D3.js
-        reading: >
-          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/d3-lecture)
+        title: Project 2 Feedback
   - date: "2024-04-26"
     events:
       - name: LAB 4

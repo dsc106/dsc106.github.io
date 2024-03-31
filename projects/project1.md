@@ -103,7 +103,7 @@ exceptional creativity, or effective annotations and other narrative devices.
 ## Submission Details
 
 This is an individual assignment. **You may not work in groups.** Your
-completed assignment is due on **Fri 1/19, by 11:59pm**.
+completed assignment is due on **Fri 4/12, by 11:59pm**.
 
 You must submit your assignment using Gradescope. Please upload a single image
 file (PNG, JPG) of your visualization design using the correct file
