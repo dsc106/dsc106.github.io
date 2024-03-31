@@ -6,16 +6,14 @@ days:
     events:
       - name: LEC 15
         type: lecture
-        title: Animation
-        url: resources/lectures/14-DSC106-Animation.pdf
-        reading: >
-          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/js-lecture/name-grapher)
+        title: Uncertainty
+        url: resources/lectures/15-DSC106-Uncertainty.pdf
   - date: "2024-05-23"
     events:
       - name: LEC 16
         type: lecture
-        title: Uncertainty
-        url: resources/lectures/15-DSC106-Uncertainty.pdf
+        title: Evaluation & Review
+        url: resources/lectures/16-DSC106-Evaluation-Review.pdf
   - date: "2024-05-24"
     events:
       - name: FINAL PROJ

@@ -6,10 +6,10 @@ days:
     events:
       - name: LEC 19
         type: lecture
-        title: Final Project Showcase
+        title: Final Project Office Hours
   - date: "2024-06-06"
     events:
       - name: LEC 20
         type: lecture
-        title: Final Project Office Hours
+        title: Final Project Showcase
 ---

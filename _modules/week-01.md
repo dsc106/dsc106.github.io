@@ -6,13 +6,14 @@ days:
     events:
       - name: LEC 1
         type: lecture
-        title: Intro, Overview, & Course Logistics
+        title: The Value of Visualization
+        url: resources/lectures/01-DSC106-ValueOfVisualization.pdf
   - date: "2024-04-04"
     events:
       - name: LEC 2
         type: lecture
-        title: The Value of Visualization
-        url: resources/lectures/01-DSC106-ValueOfVisualization.pdf
+        title: Data & Image Models
+        url: resources/lectures/02-DSC106-DataImageModels.pdf
   - date: "2024-04-05"
     events:
       - name: LAB 1

@@ -6,16 +6,14 @@ days:
     events:
       - name: LEC 9
         type: lecture
-        title: D3.js
-        url: resources/lectures/08-DSC106-D3.pdf
-        reading: >
-          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/d3-lecture)
+        title: Maps
+        url: resources/lectures/09-DSC106-Maps.pdf
   - date: "2024-05-02"
     events:
       - name: LEC 10
         type: lecture
-        title: Maps
-        url: resources/lectures/09-DSC106-Maps.pdf
+        title: Visualization Tools
+        url: resources/lectures/10-DSC106-Tools.pdf
   - date: "2024-05-03"
     events:
       - name: PROJ 2

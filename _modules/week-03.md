@@ -6,14 +6,14 @@ days:
     events:
       - name: LEC 5
         type: lecture
-        title: Perception
-        url: resources/lectures/04-DSC106-Perception.pdf
+        title: Color
+        url: resources/lectures/05-DSC106-Color.pdf
   - date: "2024-04-18"
     events:
       - name: LEC 6
         type: lecture
-        title: Color
-        url: resources/lectures/05-DSC106-Color.pdf
+        title: Interaction
+        url: resources/lectures/06-DSC106-Interaction.pdf
   - date: "2024-04-19"
     events:
       - name: LAB 3

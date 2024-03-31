@@ -6,13 +6,13 @@ days:
     events:
       - name: LEC 11
         type: lecture
-        title: Visualization Tools
-        url: resources/lectures/10-DSC106-Tools.pdf
+        title: Project 3 Peer Feedback
   - date: "2024-05-09"
     events:
       - name: LEC 12
         type: lecture
-        title: Project 3 Peer Feedback
+        title: Narrative Visualization
+        url: resources/lectures/12-DSC106-Narrative.pdf
   - date: "2024-05-10"
     events:
       - name: PROJ 3

@@ -6,13 +6,15 @@ days:
     events:
       - name: LEC 7
         type: lecture
-        title: Interaction
-        url: resources/lectures/06-DSC106-Interaction.pdf
+        title: Project 2 Feedback
   - date: "2024-04-25"
     events:
       - name: LEC 8
         type: lecture
-        title: Project 2 Feedback
+        title: D3.js
+        url: resources/lectures/08-DSC106-D3.pdf
+        reading: >
+          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/d3-lecture)
   - date: "2024-04-26"
     events:
       - name: LAB 4
