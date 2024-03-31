@@ -105,7 +105,7 @@ We will reward entries that go above and beyond the assignment requirements to p
 
 ## Submission Details
 
-This is an individual assignment. **You may not work in groups**. Your completed assignment is due on **Fri 2/2, by 11:59 pm**.
+This is an individual assignment. **You may not work in groups**. Your completed assignment is due on **Fri 4/26, by 11:59 pm**.
 
 You must submit your assignment using Gradescope. Please upload two image files (PNG, JPG) of your visualization design using the correct file extension, such as **“a2_earnest.png”** and **“a2_deceptive.png”** for PNG image files or **“a2_earnest.jpg”** or **“a2_deceptive.jpg”** for JPEG image files. Please do not include your name or PID in the filename, and be sure your image is sized for a reasonable viewing experience! Viewers should not have to zoom or scroll in order to effectively view your submission.
 

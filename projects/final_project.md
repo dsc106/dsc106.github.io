@@ -53,17 +53,17 @@ Some useful references are:
 
 The final project consists of the following milestones:
 
-- **Proposal (Fri 02/23, 11:59pm, Can Use Slip Days)**. Propose your chosen topic, dataset(s), and team members. Complete the registration form (one per team, [Registration Link][link8]). We need the following information in the project proposal:
+- **Proposal (Fri 05/17, 11:59pm, Can Use Slip Days)**. Propose your chosen topic, dataset(s), and team members. Complete the registration form (one per team, [Registration Link][link8]). We need the following information in the project proposal:
 
   - Project Title
   - Dataset
   - Brief writeup of what you intend to do (5-10 lines).
 
-- **Initial Prototype (Fri 03/01, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Gradescope.
+- **Initial Prototype (Fri 05/24, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Gradescope.
 
-- **Demo Video (Fri 03/08, 11:59pm, Can Use Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. We will share the videos in class on 03/14. More information about preparing the video is available in the project deliverables section.
+- **Demo Video (Fri 05/31, 11:59pm, Can Use Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. We will share the videos in class on 03/14. More information about preparing the video is available in the project deliverables section.
 
-- **Deliverables (Sat 03/16, 11:59pm)**. Publish your final project web page. You may make final touches to your page after any feedback from our video session. More information about preparing the final deliverables is available in the project deliverables section.
+- **Deliverables (Sat 06/08, 11:59pm)**. Publish your final project web page. You may make final touches to your page after any feedback from our video session. More information about preparing the final deliverables is available in the project deliverables section.
 
 Your video should be posted to YouTube, and a URL to your video must be submitted via Gradescope by Fri 03/08. The links for the complete version of your final project webpage should be submitted on Gradescope by Sat 03/16.
 
@@ -73,7 +73,7 @@ Your video should be posted to YouTube, and a URL to your video must be submitte
 
 To complete your final project, you must provide two primary deliverables:
 
-- A demonstration video (<= 2 minutes in length) that communicates your project goals and visualizations. YouTube URL due on Gradescope by 11:59pm, Fri 03/08.
+- A demonstration video (<= 2 minutes in length) that communicates your project goals and visualizations. YouTube URL due on Gradescope by 11:59pm, Fri 05/31.
 - An interactive visualization web page for your chosen topic. Code and website due on Gradescope by 11:59pm, Sat 03/16.
 
 ### Online Visualization
@@ -88,7 +88,7 @@ Be sure that your video communicates how your visualization designs enable a bet
 
 Please carefully read the [video production guide][link9] for details on how to design and record your video. Your videos should be in MPEG4 (.mp4, .m4v) format. Use appropriate compression to ensure your video file is not unnecessarily large. You will post videos online, so we encourage you to put your best face forward to the world!
 
-Your demo video must be published on YouTube. In addition you must submit a URL linking to your video via Gradescope by Fri 03/08, 11:59pm. We will have a video showcase during our last lecture session on Thu 03/14.
+Your demo video must be published on YouTube. In addition you must submit a URL linking to your video to a TA by Fri 05/31, 11:59pm. We will have a video showcase during our last lecture session on Thu 03/14.
 
 [link9]: https://github.com/dsc-courses/dsc106-sp24/raw/gh-pages/resources/reading/Prod_Guide.pdf
 
