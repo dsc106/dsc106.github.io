@@ -7,5 +7,4 @@ days:
       - name: FINAL PROJ
         type: proj
         title: Final Project
-        url: https://dsc106.com/projects/final_project/
 ---

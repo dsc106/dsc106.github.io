@@ -7,7 +7,6 @@ days:
       - name: LEC 13
         type: lecture
         title: JavaScript and Svelte
-        url: resources/lectures/13-DSC106-JSandSvelte.pdf
         reading: >
           [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/js-lecture)
   - date: "2024-05-16"
@@ -15,7 +14,6 @@ days:
       - name: LEC 14
         type: lecture
         title: Animation
-        url: resources/lectures/14-DSC106-Animation.pdf
         reading: >
           [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/js-lecture/name-grapher)
   - date: "2024-05-17"
@@ -23,9 +21,7 @@ days:
       - name: FINAL PROJ
         type: proj
         title: Final Project Proposal
-        url: https://forms.gle/gJ6jncs83GDgrWiG9
       - name: LAB 7
         type: lab
         title: Scrollytelling
-        url: https://docs.google.com/document/d/10TDk-w33bq2A4jOf-BJxlrOYDI7W48zm6zccSMUcRe0/edit?usp=sharing
 ---
