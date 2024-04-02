@@ -7,7 +7,7 @@ days:
       - name: LEC 1
         type: lecture
         title: The Value of Visualization
-        url: resources/lectures/01-DSC106-ValueOfVisualization.pdf
+        url: resources/lectures/01-DSC106-SP24-ValueOfVisualization.pdf
   - date: "2024-04-04"
     events:
       - name: LEC 2
