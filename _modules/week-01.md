@@ -13,7 +13,7 @@ days:
       - name: LEC 2
         type: lecture
         title: Data & Image Models
-         url: resources/lectures/02-DSC106-SP24-DataImageModels.pdf
+        url: resources/lectures/02-DSC106-SP24-DataImageModels.pdf
   - date: "2024-04-05"
     events:
       - name: LAB 1
