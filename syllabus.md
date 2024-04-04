@@ -106,35 +106,7 @@ posted before class.
 
 ### Participation
 
-Developing expertise in data visualization also means being able to clearly
-communicate, critique, and explain data visualizations to others. To develop
-this skill, participation in class will count for 8% of your course grade. Each
-week of the course will count for 1% of your grade, and the lowest two weeks
-will be dropped. There are **3 options** for fulfilling the participation
-expectations for a particular week:
-
-1. **Attend both lectures and participate in the lecture exercises.**
-   Participation will be tracked using an online form given during class.
-
-2. **Share and critique at least 1 interesting data visualization on Ed under the [Critiques](https://edstem.org/us/courses/51219/discussion/?category=Critiques) category that
-   hasn't already been shared during class, labs, or projects.** To receive credit, the critique
-   needs to have at least 3 paragraphs of around 3-4 sentences each. The three
-   paragraphs should:
-
-   1. Summarize the visualization and describe how it connects to a lecture
-      concept from the current week or the previous week. If a dataset for the
-      visualization is publicly available, provide a link.
-   2. Describe the strengths of this particular visualization.
-   3. Describe the weaknesses of this particular visualization.
-
-3. **Respond to 2 different visualization critiques from other students on
-   Ed under the [Critiques](https://edstem.org/us/courses/51219/discussion/?category=Critiques) category.** To receive credit, each response needs to have at least 2 paragraphs
-   of around 3-4 sentences each. The paragraphs should:
-   1. Explain what parts of the critique you agree and disagree with.
-   2. Suggest an improvement for the visualization. You can sketch out your
-      improved visualization or write a program to generate it.
-
-⚠️If you choose to fulfill lecture participation through option 2 or 3, you must make a **public** post on EdStem under the [Critiques](https://edstem.org/us/courses/51219/discussion/?category=Critiques) category. In the title of your post or response, clearly state that it is being used as an opportunity to fulfill lecture participation. The deadline for submitting critiques to count for the corresponding week is **Sunday at 11:59 PM**.
+Given the relatively late lecture time, lecture attendance will _not_ be mandatory.
 
 ### Discussions
 
@@ -227,12 +199,25 @@ Here is how we'll compute your grade:
 
 | Component     | Weight | Notes                                                          |
 | ------------- | ------ | -------------------------------------------------------------- |
-| Participation | 8%     | 1% per week, 2 lowest weeks dropped                            |
-| Labs          | 12%    | 2% per lab, 1 lowest lab dropped                               |
-| Project 1     | 10%    |                                                                |
+| Participation | 0%     | Attendance is not mandatory.                                   |
+| Labs          | 18%    | 3% per lab, 1 lowest lab dropped                               |
+| Project 1     | 12%    |                                                                |
 | Project 2     | 15%    | 10% for submission, 5% for peer review                         |
 | Project 3     | 15%    | 10% for submission, 5% for peer review                         |
 | Final Project | 40%    | 3% for proposal, 7% prototype, 15% video, 15% final submission |
+
+### Extra Credit
+
+Each week, an extra credit opportunity worth 1% will be available. To earn this extra credit,
+you must email me a data visualization you saw during the previous week (it may be from a website,
+a newspaper, a photo of something you saw, whatever), along with an explanation of what you found
+interesting and effective about that particular visualization.
+
+I will select for the most interesting piece of visualization each week and share it during the
+Tuesday lecture. The student who sent the selected visualization will receive 1% extra credit.
+
+To be considered for each week's extra credit, email me a visualization and explanation before
+that week's Sunday at 11:59pm.
 
 ### Late Policy, Slip Days, and Drops
 
@@ -247,7 +232,7 @@ the deadline of an assignment by 24 hours. The number of slip days you can use
 on an assignment depends on the kind of assignment:
 
 - On labs, you may use up to 1 slip day. Since labs are due on Fridays and
-  require a TA to check off, you may get checked off on the following Monday
+  submitted via email, you may get checked off on the following Monday
   after a lab deadline to use 1 slip day.
 - On projects, you may use up to 2 slip days. Projects will not be
   accepted more than 48 hours after the deadline. Note that you will not be
