@@ -20,4 +20,5 @@ days:
       - name: PROJ 1
         type: proj
         title: "Project 1: Expository Visualization"
+        url: projects/project1
 ---
