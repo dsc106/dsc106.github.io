@@ -7,6 +7,7 @@ days:
       - name: LEC 3
         type: lecture
         title: (In)Effective Visual Encoding
+        url: resources/lectures/03-DSC106-SP24-VisualEncodingDarkPatterns.pdf
   - date: "2024-04-11"
     events:
       - name: LEC 4
