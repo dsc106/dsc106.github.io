@@ -18,6 +18,7 @@ days:
       - name: LAB 2
         type: lab
         title: HTML/CSS
+        url: https://docs.google.com/document/d/1j3WZ2ZgVNfuhd9mfHWY7ImfK9-Bo6gAZserP5FyjhCI/edit#heading=h.b1a8kqc66t87
       - name: PROJ 1
         type: proj
         title: "Project 1: Expository Visualization"
