@@ -13,6 +13,7 @@ days:
       - name: LEC 4
         type: lecture
         title: Perception
+        url: resources/lectures/04-DSC106-SP24-Perception.pdf
   - date: "2024-04-12"
     events:
       - name: LAB 2
