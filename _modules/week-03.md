@@ -17,4 +17,5 @@ days:
       - name: LAB 3
         type: lab
         title: JavaScript, SVG
+        url: https://docs.google.com/document/d/10Zrz_zGO0yHApfs-W4kTLrob58f_9R3yvmoAGGQIPxY/edit?usp=sharing
 ---
