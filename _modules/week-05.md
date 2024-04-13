@@ -14,9 +14,6 @@ days:
         title: Visualization Tools
   - date: "2024-05-03"
     events:
-      - name: PROJ 2
-        type: proj
-        title: Project 2 Peer Review
       - name: LAB 5
         type: lab
         title: D3
