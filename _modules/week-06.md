@@ -17,6 +17,7 @@ days:
       - name: PROJ 3
         type: proj
         title: "Project 3: Interactive Visualization"
+        url: projects/project3
       - name: LAB 6
         type: lab
         title: Mapbox.js

@@ -22,4 +22,5 @@ days:
       - name: PROJ 2
         type: proj
         title: "Project 2: Deceptive Visualization"
+        url: projects/project2
 ---
