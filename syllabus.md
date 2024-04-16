@@ -100,8 +100,7 @@ post instead.**
 
 Lectures will be held in-person on Tuesday and Thursday from 6:30-7:50PM in
 [SOLIS 104]. **Lecture attendance is not
-strictly required, but is one option for earning your participation grade
-(detailed below)**. Lectures will be podcasted, and lecture slides will be
+strictly required**. Lectures will be podcasted, and lecture slides will be
 posted before class.
 
 ### Participation
