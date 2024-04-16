@@ -6,7 +6,8 @@ days:
     events:
       - name: LEC 5
         type: lecture
-        title: Color
+        title: JavaScript & SVG
+        url: resources/lectures/05-DSC106-SP24-JavaScriptSVG.pdf
   - date: "2024-04-18"
     events:
       - name: LEC 6
