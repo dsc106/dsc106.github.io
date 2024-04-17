@@ -24,7 +24,7 @@ Sign up here: [https://docs.google.com/spreadsheets/d/1gjQJIr9Dt4iIESBTcn4bSXxwG
 
 ### Amirhossein Panahi:
 
-Tuesdays 3:30 - 5:00pm
+Mondays 3:30 - 5:00pm
 
 Email: apanahi@ucsd.edu
 
@@ -36,7 +36,7 @@ Meeting ID: 933 274 2877
 
 ### Giorgia Nicolaou:
 
-Mondays 3:30 - 5:00pm
+Tuesdays 3:30 - 5:00pm
 
 Zoom: [https://ucsd.zoom.us/j/97612083404](https://ucsd.zoom.us/j/97612083404)
 
