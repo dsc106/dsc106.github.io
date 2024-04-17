@@ -28,7 +28,7 @@ Tuesdays 3:30 - 5:00pm
 
 Email: apanahi@ucsd.edu
 
-https://ucsd.zoom.us/j/9332742877
+Zoom: [https://ucsd.zoom.us/j/9332742877](https://ucsd.zoom.us/j/9332742877)
 
 Meeting ID: 933 274 2877
 
@@ -37,5 +37,7 @@ Meeting ID: 933 274 2877
 ### Giorgia Nicolaou:
 
 Mondays 3:30 - 5:00pm
+
+Zoom: [https://ucsd.zoom.us/j/97612083404](https://ucsd.zoom.us/j/97612083404)
 
 Email: gnicolaou@ucsd.edu
