@@ -13,6 +13,7 @@ days:
       - name: LEC 6
         type: lecture
         title: Interaction
+        url: resources/lectures/06-DSC106-SP24-Interaction.pdf
   - date: "2024-04-19"
     events:
       - name: LAB 3
