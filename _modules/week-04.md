@@ -7,6 +7,7 @@ days:
       - name: LEC 7
         type: lecture
         title: D3.js
+        url: resources/lectures/08-DSC106-SP24-D3.pdf
         reading: >
           [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/d3-lecture)
   - date: "2024-04-25"
