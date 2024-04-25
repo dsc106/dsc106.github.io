@@ -10,12 +10,12 @@ days:
         url: resources/lectures/08-DSC106-SP24-D3.pdf
         reading: >
           [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/d3-lecture)
-  - date: "2024-04-25"
+  - date: "2024-04-24"
     events:
       - name: LEC 8
         type: lecture
-        title: Project 2 Feedback
-  - date: "2024-04-26"
+        title: Class Cancelled
+  - date: "2024-04-25"
     events:
       - name: LAB 4
         type: lab
