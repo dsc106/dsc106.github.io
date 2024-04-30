@@ -6,12 +6,13 @@ days:
     events:
       - name: LEC 9
         type: lecture
-        title: Maps
+        title: Color
+        url: resources/lectures/05-DSC106-SP24-Color.pdf
   - date: "2024-05-02"
     events:
       - name: LEC 10
         type: lecture
-        title: Visualization Tools
+        title: Peer 2 Feedback + Project 3 Group + OH
   - date: "2024-05-03"
     events:
       - name: LAB 5
