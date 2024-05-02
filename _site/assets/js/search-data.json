@@ -169,7 +169,7 @@
   },"28": {
     "doc": "Project 3: Interactive Visualization",
     "title": "Team Registration",
-    "content": "For this assignment, you should work in teams of 2-3 students. You might want to find project partners that you will continue to work with for the final project. As soon as you have formed a team and chosen a dataset, submit the team registration form. Your form must include the names, UCSD email addresses, and PIDs of each team member, along with a concise title for your interactive visualization. The visualization title need not be exact, just a rough title should be a good start. If you are looking for project partners, please post to Ed to find classmates with similar interests! You should submit your team registration by Mon 02/05, 11:55 pm. You will submit your interactive prototype as a webpage hosted on GitHub Pages. ",
+    "content": "For this assignment, you should work in teams of 2-3 students. You might want to find project partners that you will continue to work with for the final project. As soon as you have formed a team and chosen a dataset, submit the team registration form. Your form must include the names, UCSD email addressess of each team member, along with a concise title for your interactive visualization. The visualization title need not be exact, just a rough title should be a good start. If you are looking for project partners, please post to Ed to find classmates with similar interests! You should submit your team registration by Mon 05/06, 11:55 pm. You will submit your interactive prototype as a webpage hosted on GitHub Pages. ",
     "url": "/projects/project3/#team-registration",
     "relUrl": "/projects/project3/#team-registration"
   },"29": {
@@ -181,13 +181,13 @@
   },"30": {
     "doc": "Project 3: Interactive Visualization",
     "title": "Grading Criteria",
-    "content": "Projects that squarely meet the requirements for the assignment will receive a score of 9/10. Going beyond the call of duty can net additional points, for example: . | Advanced interaction techniques | Novel visualization elements | Effective multi-view coordination | Thoughtful and elegant graphic design | Insightful &amp; engaging exploration experience | . Point deductions will be made when projects suffer from: . | Errors or broken features | Ineffective visual encodings | Confusing interface design or unhelpful interactions | Lack of exploratory interaction techniques | Incomplete or insufficient write-up | . ",
+    "content": "Projects that squarely meet the requirements for the assignment will receive a score of 6/10. Going beyond the call of duty can net additional points, for example: . | Advanced interaction techniques | Novel visualization elements | Effective multi-view coordination | Thoughtful and elegant graphic design | Insightful &amp; engaging exploration experience | . Point deductions will be made when projects suffer from: . | Errors or broken features | Ineffective visual encodings | Confusing interface design or unhelpful interactions | Lack of exploratory interaction techniques | Incomplete or insufficient write-up | . ",
     "url": "/projects/project3/#grading-criteria",
     "relUrl": "/projects/project3/#grading-criteria"
   },"31": {
     "doc": "Project 3: Interactive Visualization",
     "title": "Submission Details",
-    "content": "Submit your team registration form by Mon 04/29, 11:55 PM. You must have a working prototype online by Fri 05/10, 11:59 pm. Your prototype should be accessible on GitHub pages using a publicly viewable URL. In addition, you must submit the URL on Gradescope. One submission per team is sufficient. Submissions will be reviewed as part of a subsequent peer review assignment (due Fri 05/17), so try to avoid a late submission; assignments submitted late may not be included as part of the peer review and thus not receive peer feedback. ",
+    "content": "Submit your team registration form by Mon 05/06, 11:55 PM. You must have a working prototype online by Mon 05/13, 11:59 pm. Your prototype should be accessible on GitHub pages using a publicly viewable URL. In addition, you must submit the URL on Gradescope. One submission per team is sufficient. Submissions will be reviewed as part of a subsequent peer review assignment (due Fri 05/17), so try to avoid a late submission; assignments submitted late may not be included as part of the peer review and thus not receive peer feedback. ",
     "url": "/projects/project3/#submission-details",
     "relUrl": "/projects/project3/#submission-details"
   },"32": {

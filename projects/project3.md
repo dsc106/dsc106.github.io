@@ -24,11 +24,11 @@ One challenge is to **scope the assignment so that you can finish it within two 
 
 For this assignment, you should work in teams of 2-3 students. You might want to find project partners that you will continue to work with for the final project.
 
-As soon as you have formed a team and chosen a dataset, submit the [team registration form][link5]. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your interactive visualization**. The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Ed to find classmates with similar interests! **You should submit your team registration by Mon 02/05, 11:55 pm.**
+As soon as you have formed a team and chosen a dataset, submit the [team registration form][link5]. Your form must include **the names, UCSD email addressess** of each team member, along with a **concise title for your interactive visualization**. The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Ed to find classmates with similar interests! **You should submit your team registration by Mon 05/06, 11:55 pm.**
 
 You will submit your interactive prototype as a webpage hosted on [GitHub Pages][link6].
 
-[link5]: https://forms.gle/z2YzKkeZ86MjLqPs9
+[link5]: https://docs.google.com/spreadsheets/d/1pckpkVQN4vjT7PFPmTSa5ae6ApPVZZxPK6BYwFPy9_s/edit#gid=1518716080
 [link6]: https://pages.github.com/
 
 ## Deliverables
@@ -53,7 +53,7 @@ You can either include your write-up on the same page as your visualization or l
 
 ## Grading Criteria
 
-Projects that squarely meet the requirements for the assignment will receive a score of 9/10.
+Projects that squarely meet the requirements for the assignment will receive a score of 6/10.
 
 Going beyond the call of duty can net additional points, for example:
 
@@ -73,9 +73,9 @@ Point deductions will be made when projects suffer from:
 
 ## Submission Details
 
-Submit your [team registration form][link5] by **Mon 04/29, 11:55 PM**.
+Submit your [team registration form][link5] by **Mon 05/06, 11:55 PM**.
 
-You must have a working prototype online by **Fri 05/10, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
+You must have a working prototype online by **Mon 05/13, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
 
 In addition, **you must submit the URL on Gradescope**. **One submission per team is sufficient**.
 
