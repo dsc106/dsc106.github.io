@@ -34,4 +34,14 @@ To share critique, we will use the ["I like / I wish / What if?"][link] format. 
 
 This is an individual assignment. You may not work in groups.
 
-Your peer reviews are due Fri 05/03, 11:59pm. The links to the submissions that you are required to evaluate will be emailed to you. You must submit peer reviews for two Project 2 submissions. To submit your review, you must use gradescope. Please carefully respond to each of the questions raised.
+Your peer reviews are due Tuesday 05/07, 11:59pm. Each student must review the project of two other students. Those two students will be assigned to you in a spreadsheet linked in an Ed thread titled, "Project 2 Peer Grade Assignments." Email the students to get their projects.
+
+To be clear:
+
+1. Consult the spreadsheet to see your two peer graders.
+2. Email each of your two peer graders your project. They will be your peer graders.
+3. You should receive two emails from your peers with projects for you to grade. Grade those.
+
+If a student does not send their project to their peer graders by Sunday, 5/05, the peer graders will receive full credit for that project and that student that neglected to email their project to their peers will lose 50% of the assignment grade for each project not sent.
+
+To submit your review, you must use gradescope, **Project 2 Peer Grading**. Please carefully respond to each of the questions raised.
