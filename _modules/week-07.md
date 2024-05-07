@@ -2,6 +2,16 @@
 title: Week 7
 weekNumber: 7
 days:
+  - date: "2024-05-13"
+    events:
+      - name: PROJ 3
+        type: proj
+        title: "Project 3: Interactive Visualization"
+        url: projects/project3
+      - name: LAB 6
+        type: lab
+        title: Mapbox.js
+        url: https://docs.google.com/document/d/1CIwFRfa7JUzA6I-7K5BH52OXJE5IBw_2E64dDQiK-Xw/edit?usp=sharing
   - date: "2024-05-14"
     events:
       - name: LEC 13
