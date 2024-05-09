@@ -16,16 +16,12 @@ days:
     events:
       - name: LEC 13
         type: lecture
-        title: JavaScript and Svelte
-        reading: >
-          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/js-lecture)
+        title: Guest Lecture [Andrei Kashcha](https://twitter.com/anvaka) (Lead Engineer @AWS)
   - date: "2024-05-16"
     events:
       - name: LEC 14
         type: lecture
         title: Animation
-        reading: >
-          [Code](https://github.com/dsc-courses/dsc106-sp24/tree/main/js-lecture/name-grapher)
   - date: "2024-05-17"
     events:
       - name: FINAL PROJ
