@@ -13,6 +13,7 @@ days:
       - name: LEC 12
         type: lecture
         title: Maps
+        url: resources/lectures/12-DSC106-SP24-Maps.pdf
   - date: "2024-05-10"
     events:
       - name: LAB 6
