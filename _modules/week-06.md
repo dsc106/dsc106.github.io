@@ -14,10 +14,4 @@ days:
         type: lecture
         title: Maps
         url: resources/lectures/12-DSC106-SP24-Maps.pdf
-  - date: "2024-05-10"
-    events:
-      - name: LAB 6
-        type: lab
-        title: Mapbox.js
-        url: https://docs.google.com/document/d/1CIwFRfa7JUzA6I-7K5BH52OXJE5IBw_2E64dDQiK-Xw/edit?usp=sharing
 ---

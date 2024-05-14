@@ -16,18 +16,11 @@ days:
     events:
       - name: LEC 13
         type: lecture
-        title: Guest Lecture [Andrei Kashcha](https://twitter.com/anvaka) (Lead Engineer @AWS)
+        title: Guest Lecture Andrei Kashcha, Lead Engineer @ AWS
+        url: https://twitter.com/anvaka
   - date: "2024-05-16"
     events:
       - name: LEC 14
         type: lecture
         title: Animation
-  - date: "2024-05-17"
-    events:
-      - name: FINAL PROJ
-        type: proj
-        title: Final Project Proposal
-      - name: LAB 7
-        type: lab
-        title: Scrollytelling
 ---
