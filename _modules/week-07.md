@@ -22,5 +22,6 @@ days:
     events:
       - name: LEC 14
         type: lecture
-        title: Animation
+        title: Narrative Visualization
+        url: resources/lectures/12-DSC106--SP24-Narrative.pdf
 ---

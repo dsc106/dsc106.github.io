@@ -53,28 +53,30 @@ Some useful references are:
 
 The final project consists of the following milestones:
 
-- **Proposal (Fri 05/17, 11:59pm, Can Use Slip Days)**. Propose your chosen topic, dataset(s), and team members. Complete the registration form (one per team, [Registration Link][link8]). We need the following information in the project proposal:
+- **Proposal (Mon 05/20, 11:59pm, Can Use Slip Days)**. Propose your chosen topic, dataset(s), and team members. Sign up for groups (2-3 members) using this Google form: [Registration Link][link8]. **You must have a team by Mon 05/20**.
 
-  - Project Title
-  - Dataset
-  - Brief writeup of what you intend to do (5-10 lines).
+**The project proposal is due in Gradescope**. It will ask you for the following (per team) information:
 
-- **Initial Prototype (Fri 05/24, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Gradescope.
+- Project Title
+- Dataset
+- Brief writeup of what you intend to do (5-10 lines).
 
-- **Demo Video (Fri 05/31, 11:59pm, Can Use Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. We will share the videos in class on 03/14. More information about preparing the video is available in the project deliverables section.
+- **Initial Prototype (Mon 05/27, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. **Each team should submit the URL for their project on Gradescope.**
+
+- **Demo Video (Mon 06/03, 11:59pm, Can Use Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. We will share the videos in class on Th 06/06. More information about preparing the video is available in the project deliverables section. Note that, your project does not have to be completely finished for the video. the video should introduce/explain the project, show your progress, and show the current version of the project.
 
 - **Deliverables (Sat 06/08, 11:59pm)**. Publish your final project web page. You may make final touches to your page after any feedback from our video session. More information about preparing the final deliverables is available in the project deliverables section.
 
-Your video should be posted to YouTube, and a URL to your video must be submitted via Gradescope by Fri 03/08. The links for the complete version of your final project webpage should be submitted on Gradescope by Sat 03/16.
+Your video should be posted to YouTube, and a URL to your video must be submitted via Gradescope by Fri 06/08. The links for the complete version of your final project webpage should be submitted on Gradescope by Sat 06/08.
 
-[link8]: https://forms.gle/gJ6jncs83GDgrWiG9
+[link8]: https://docs.google.com/spreadsheets/d/1qLY1pbSW79BLt4A0TSNqrbw2I1agz57l8XrjWImJNNM/edit?usp=sharing
 
 ## Project Deliverables
 
 To complete your final project, you must provide two primary deliverables:
 
-- A demonstration video (<= 2 minutes in length) that communicates your project goals and visualizations. YouTube URL due on Gradescope by 11:59pm, Fri 05/31.
-- An interactive visualization web page for your chosen topic. Code and website due on Gradescope by 11:59pm, Sat 03/16.
+- A demonstration video (<= 2 minutes in length) that communicates your project goals and visualizations. YouTube URL due on Gradescope by 11:59pm, Mon 06/03.
+- An interactive visualization web page for your chosen topic. Code and website due on Gradescope by 11:59pm, Sat 06/08.
 
 ### Online Visualization
 
@@ -88,7 +90,7 @@ Be sure that your video communicates how your visualization designs enable a bet
 
 Please carefully read the [video production guide][link9] for details on how to design and record your video. Your videos should be in MPEG4 (.mp4, .m4v) format. Use appropriate compression to ensure your video file is not unnecessarily large. You will post videos online, so we encourage you to put your best face forward to the world!
 
-Your demo video must be published on YouTube. In addition you must submit a URL linking to your video to a TA by Fri 05/31, 11:59pm. We will have a video showcase during our last lecture session on Thu 03/14.
+Your demo video must be published on YouTube. In addition you must submit a URL linking to your video to a TA by Mon 06/03, 11:59pm. We will have a video showcase during our last lecture session on Thu 06/06.
 
 [link9]: https://github.com/dsc-courses/dsc106-sp24/raw/gh-pages/resources/reading/Prod_Guide.pdf
 
@@ -114,7 +116,7 @@ Your demo video must be published on YouTube. In addition you must submit a URL 
 
 ### Demo Video
 
-The assignment is out of 15 points possible. Submissions that squarely meet the project requirements (Satisfactory column) will get 12/15 points.
+The assignment is out of 15 points possible. Submissions that squarely meet the project requirements (Satisfactory column) will get 11/15 points.
 
 | Component                            | Excellent                                                                                                                                                                                                                                                   | Satisfactory                                                                                                                                                                               | Not Satisfactory                                                                              |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
@@ -152,7 +154,7 @@ The assignment is out of 15 points possible. Submissions that squarely meet the 
 | **Annotations**                       |                                                                                                                                                                   | The visualizations contain helpful annotations (e.g. text, coloring, shading) that draw attention to interesting findings.                                                                                                                        | The visualizations contain no annotations.                                                                                                                                                                                                                                   |
 |                                       |                                                                                                                                                                   | (+1 point)                                                                                                                                                                                                                                        | (+0 points)                                                                                                                                                                                                                                                                  |
 | **Takeaways**                         |                                                                                                                                                                   | The project ends with an interesting takeaway and explains why your visualization demonstrates this takeaway effectively. What is the one thing that everyone should learn from your project? And why does your project succeed at explaining it? | The project is missing a takeaway, or ends with a takeaway message but the presentation could be improved (e.g. the takeaway isn’t surprising, or focuses too much on the implementation of the visualization).                                                              |
-|                                       |                                                                                                                                                                   | (+2 point)                                                                                                                                                                                                                                        | (+1 point)                                                                                                                                                                                                                                                                   |
+|                                       |                                                                                                                                                                   | (+1 point)                                                                                                                                                                                                                                        | (+1 point)                                                                                                                                                                                                                                                                   |
 | **Viewing experience**                |                                                                                                                                                                   | The project is easy to view: all images are clearly visible and all text is legible on a typical laptop screen size.                                                                                                                              | The project is difficult to view (e.g. some images and text are too small to see clearly).                                                                                                                                                                                   |
 |                                       |                                                                                                                                                                   | (+1 point)                                                                                                                                                                                                                                        | (+0 points)                                                                                                                                                                                                                                                                  |
 | **Creativity and Originality**        | The submission exceeds the assignment requirements, with original insights or a particularly engaging presentation.                                               | The submission meets the assignment requirements.                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                              |
