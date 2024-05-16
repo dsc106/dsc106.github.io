@@ -7,6 +7,7 @@ days:
       - name: FINAL PROJ
         type: proj
         title: Final Project Proposal
+        url: https://dsc106.com/projects/final_project/
       - name: LAB 7
         type: lab
         title: Scrollytelling
@@ -15,15 +16,10 @@ days:
     events:
       - name: LEC 15
         type: lecture
-        title: Uncertainty
+        title: Animation
   - date: "2024-05-23"
     events:
       - name: LEC 16
         type: lecture
-        title: Evaluation & Review
-  - date: "2024-05-24"
-    events:
-      - name: FINAL PROJ
-        type: proj
-        title: Final Project Prototype
+        title: Uncertainty
 ---
