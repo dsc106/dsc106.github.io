@@ -17,6 +17,7 @@ days:
       - name: LEC 15
         type: lecture
         title: Animation
+        url: resources/lectures/14-DSC106-SP24-Animation.pdf
   - date: "2024-05-23"
     events:
       - name: LEC 16
