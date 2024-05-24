@@ -23,4 +23,5 @@ days:
       - name: LEC 16
         type: lecture
         title: Uncertainty
+        url: resources/lectures/16-DSC106-SP24-Uncertainty.pdf
 ---
